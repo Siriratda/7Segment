@@ -80,7 +80,6 @@ void SevenSegment::DisplayNum0()
     seg_f.ON();
     seg_g.OFF();
     common.ON();
-    printf("Num 0\r\n");
 }
 
 void SevenSegment::DisplayNum1()
@@ -94,7 +93,6 @@ void SevenSegment::DisplayNum1()
     seg_f.OFF();
     seg_g.OFF();
     common.ON();
-    printf("Num 1\r\n");
 }
 
 void SevenSegment::DisplayNum2()
